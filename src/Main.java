@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Test-2a to Git Control.");
+        System.out.println("Test-2a to Git Control. YES");
     }
 }
